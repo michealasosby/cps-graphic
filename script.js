@@ -34,7 +34,7 @@ function loopThroughData(schoolsData) {
 
 		var schoolName = schoolsData[i]["SCHOOL_NAME"];
 		var year = schoolsData[i]["YEAR"];
-		var suspension = schoolsData[i]["SUSPENSION_RATE"];
+		var enrollment = schoolsData[i]["ENROLLMENT"];
 
 		//If graduation percent is less thatn 50%...
 		//We use the `<` operator to test for values less than 50%
@@ -45,7 +45,7 @@ function loopThroughData(schoolsData) {
 		// 	console.log(year, schoolName, gradPct);
 		// }
 
-    var barWidth = suspension * 10;
+    var barWidth = enrollment * 10;
 
 //If the school name matches the one we're looking for, add some markup onto our page.
 if (schoolName === "COLUMBIA-HICKMAN HIGH") {
@@ -56,7 +56,7 @@ if (schoolName === "COLUMBIA-HICKMAN HIGH") {
   $(".chart").append(
     "<div class='bar-item'>"+
       "<div class='bar' style='width: "+barWidth+"px'>"+year+"</div>"+
-      "<div class='val'>"+suspension+"%</div>"+
+      "<div class='val'>"+enrollment+"%</div>"+
     "</div>"
   );
 
