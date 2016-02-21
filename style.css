@@ -1,0 +1,24 @@
+.chart {
+  height: 500px;
+}
+
+.bar-item {
+	display: inline-block;
+	width: 100%;
+}
+
+.val {
+	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
+	font-weight: bold;
+}
+
+.bar {
+	background-color: grey;
+	margin-top: 1px;
+	outline: 1px solid white;
+	color: white;
+	padding: 4px;
+	float: left;
+}
