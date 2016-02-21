@@ -12,7 +12,8 @@
         "DSCPLN_DRUG": 1,
         "DSCPLN_DRUG_RATE": 0,
         "DSCPLN_OTHER": 1,
-        "DSCPLN_OTHER_RATE": 0
+        "DSCPLN_OTHER_RATE": 0,
+        "SUSPENSION_RATE": 0.1
     },
     {
         "YEAR": 2002,
@@ -27,7 +28,8 @@
         "DSCPLN_DRUG": 0,
         "DSCPLN_DRUG_RATE": 0,
         "DSCPLN_OTHER": 0,
-        "DSCPLN_OTHER_RATE": 0
+        "DSCPLN_OTHER_RATE": 0,
+        "SUSPENSION_RATE": 0
     },
     {
         "YEAR": 2003,
@@ -42,7 +44,8 @@
         "DSCPLN_DRUG": 7,
         "DSCPLN_DRUG_RATE": 0.3,
         "DSCPLN_OTHER": 3,
-        "DSCPLN_OTHER_RATE": 0.1
+        "DSCPLN_OTHER_RATE": 0.1,
+        "SUSPENSION_RATE": 0.7
     },
     {
         "YEAR": 2004,
@@ -57,7 +60,8 @@
         "DSCPLN_DRUG": 1,
         "DSCPLN_DRUG_RATE": 0,
         "DSCPLN_OTHER": 2,
-        "DSCPLN_OTHER_RATE": 0.1
+        "DSCPLN_OTHER_RATE": 0.1,
+        "SUSPENSION_RATE": 0.3
     },
     {
         "YEAR": 2005,
@@ -72,7 +76,8 @@
         "DSCPLN_DRUG": 6,
         "DSCPLN_DRUG_RATE": 0.3,
         "DSCPLN_OTHER": 0,
-        "DSCPLN_OTHER_RATE": 0
+        "DSCPLN_OTHER_RATE": 0,
+        "SUSPENSION_RATE": 1.1
     },
     {
         "YEAR": 2006,
@@ -87,7 +92,8 @@
         "DSCPLN_DRUG": 11,
         "DSCPLN_DRUG_RATE": 0.5,
         "DSCPLN_OTHER": 14,
-        "DSCPLN_OTHER_RATE": 0.7
+        "DSCPLN_OTHER_RATE": 0.7,
+        "SUSPENSION_RATE": 1.3
     },
     {
         "YEAR": 2007,
@@ -102,7 +108,8 @@
         "DSCPLN_DRUG": 13,
         "DSCPLN_DRUG_RATE": 0.6,
         "DSCPLN_OTHER": 19,
-        "DSCPLN_OTHER_RATE": 0.9
+        "DSCPLN_OTHER_RATE": 0.9,
+        "SUSPENSION_RATE": 1.8
     },
     {
         "YEAR": 2008,
@@ -117,7 +124,8 @@
         "DSCPLN_DRUG": 6,
         "DSCPLN_DRUG_RATE": 0.3,
         "DSCPLN_OTHER": 31,
-        "DSCPLN_OTHER_RATE": 1.4
+        "DSCPLN_OTHER_RATE": 1.4,
+        "SUSPENSION_RATE": 1.9
     },
     {
         "YEAR": 2009,
@@ -132,7 +140,8 @@
         "DSCPLN_DRUG": 14,
         "DSCPLN_DRUG_RATE": 0.7,
         "DSCPLN_OTHER": 64,
-        "DSCPLN_OTHER_RATE": 3
+        "DSCPLN_OTHER_RATE": 3,
+        "SUSPENSION_RATE": 4.4
     },
     {
         "YEAR": 2010,
@@ -147,13 +156,14 @@
         "DSCPLN_DRUG": 8,
         "DSCPLN_DRUG_RATE": 0.4,
         "DSCPLN_OTHER": 64,
-        "DSCPLN_OTHER_RATE": 3.2
+        "DSCPLN_OTHER_RATE": 3.2,
+        "SUSPENSION_RATE": 3.8
     },
     {
         "YEAR": 2011,
         "DISTRICT_NAME": "COLUMBIA 93",
         "SCHOOL_CODE": 1050,
-        "SCHOOL_NAME": "COLUMBIA-HICKMAN HIGH",
+        "SCHOOL_NAME": "DAVID H. HICKMAN HIGH",
         "ENROLLMENT": 1941,
         "DSCPLN_INCIDENTS": 57,
         "DSCPLN_INCIDENT_RATE": 2.9,
@@ -162,13 +172,14 @@
         "DSCPLN_DRUG": 6,
         "DSCPLN_DRUG_RATE": 0.3,
         "DSCPLN_OTHER": 49,
-        "DSCPLN_OTHER_RATE": 2.5
+        "DSCPLN_OTHER_RATE": 2.5,
+        "SUSPENSION_RATE": 2.6
     },
     {
         "YEAR": 2012,
         "DISTRICT_NAME": "COLUMBIA 93",
         "SCHOOL_CODE": 1050,
-        "SCHOOL_NAME": "COLUMBIA-HICKMAN HIGH",
+        "SCHOOL_NAME": "DAVID H. HICKMAN HIGH",
         "ENROLLMENT": 1882,
         "DSCPLN_INCIDENTS": 28,
         "DSCPLN_INCIDENT_RATE": 1.5,
@@ -177,13 +188,14 @@
         "DSCPLN_DRUG": 2,
         "DSCPLN_DRUG_RATE": 0.1,
         "DSCPLN_OTHER": 25,
-        "DSCPLN_OTHER_RATE": 1.3
+        "DSCPLN_OTHER_RATE": 1.3,
+        "SUSPENSION_RATE": 1.3
     },
     {
         "YEAR": 2013,
         "DISTRICT_NAME": "COLUMBIA 93",
         "SCHOOL_CODE": 1050,
-        "SCHOOL_NAME": "COLUMBIA-HICKMAN HIGH",
+        "SCHOOL_NAME": "DAVID H. HICKMAN HIGH",
         "ENROLLMENT": 1919,
         "DSCPLN_INCIDENTS": 28,
         "DSCPLN_INCIDENT_RATE": 1.5,
@@ -192,13 +204,14 @@
         "DSCPLN_DRUG": 1,
         "DSCPLN_DRUG_RATE": 0.1,
         "DSCPLN_OTHER": 25,
-        "DSCPLN_OTHER_RATE": 1.3
+        "DSCPLN_OTHER_RATE": 1.3,
+        "SUSPENSION_RATE": 1.4
     },
     {
         "YEAR": 2014,
         "DISTRICT_NAME": "COLUMBIA 93",
         "SCHOOL_CODE": 1050,
-        "SCHOOL_NAME": "COLUMBIA-HICKMAN HIGH",
+        "SCHOOL_NAME": "DAVID H. HICKMAN HIGH",
         "ENROLLMENT": 1814,
         "DSCPLN_INCIDENTS": 6,
         "DSCPLN_INCIDENT_RATE": 0.3,
@@ -207,13 +220,14 @@
         "DSCPLN_DRUG": 2,
         "DSCPLN_DRUG_RATE": 0.1,
         "DSCPLN_OTHER": 3,
-        "DSCPLN_OTHER_RATE": 0.2
+        "DSCPLN_OTHER_RATE": 0.2,
+        "SUSPENSION_RATE": 0.3
     },
     {
         "YEAR": 2015,
         "DISTRICT_NAME": "COLUMBIA 93",
         "SCHOOL_CODE": 1050,
-        "SCHOOL_NAME": "COLUMBIA-HICKMAN HIGH",
+        "SCHOOL_NAME": "DAVID H. HICKMAN HIGH",
         "ENROLLMENT": 1671,
         "DSCPLN_INCIDENTS": 7,
         "DSCPLN_INCIDENT_RATE": 0.4,
@@ -222,6 +236,7 @@
         "DSCPLN_DRUG": 1,
         "DSCPLN_DRUG_RATE": 0.1,
         "DSCPLN_OTHER": 5,
-        "DSCPLN_OTHER_RATE": 0.3
+        "DSCPLN_OTHER_RATE": 0.3,
+        "SUSPENSION_RATE": 0.3
     }
 ]
