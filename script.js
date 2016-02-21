@@ -11,7 +11,7 @@ function getData() {
 	//We bring our json file into our JavaScript environement with an AJAX call.
 	//$.getJSON points to our json file, loads it, and stores it in a variable defined in the parenthesis...
 	//In the case, we've opted to call it `schoolsData`
-	$.getJSON("js/hickman.json", function(schoolsData) {
+	$.getJSON("hickman.json", function(schoolsData) {
 		//Once we have the data, we PASS it on to the next function
 		//where we'll loop through the data and draw our chart.
 		//We pass it to the next function by including it as an "argument" inside the parenthesis
