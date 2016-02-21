@@ -56,7 +56,7 @@ if (schoolName === "COLUMBIA-HICKMAN HIGH") {
   $(".chart").append(
     "<div class='bar-item'>"+
       "<div class='bar' style='width: "+barWidth+"px'>"+year+"</div>"+
-      "<div class='val'>"+enrollment+"%</div>"+
+      "<div class='val'>"+enrollment+"</div>"+
     "</div>"
   );
 
