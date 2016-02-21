@@ -45,7 +45,7 @@ function loopThroughData(schoolsData) {
 		// 	console.log(year, schoolName, gradPct);
 		// }
 
-    var barWidth = suspension * 500;
+    var barWidth = suspension * 10;
 
 //If the school name matches the one we're looking for, add some markup onto our page.
 if (schoolName === "COLUMBIA-HICKMAN HIGH") {
