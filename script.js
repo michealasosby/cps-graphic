@@ -34,7 +34,7 @@ function loopThroughData(schoolsData) {
 
 		var schoolName = schoolsData[i]["SCHOOL_NAME"];
 		var year = schoolsData[i]["YEAR"];
-		var ratio = schoolsData[i]["STUDENTS_PER_TEACHER_RATIO"];
+		var ratio = schoolsData[i]["STUDENTS_PER_ADMIN_RATIO"];
 
 		//If graduation percent is less thatn 50%...
 		//We use the `<` operator to test for values less than 50%
