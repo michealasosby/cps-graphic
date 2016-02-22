@@ -1,10 +1,10 @@
 .chart {
-  height: 500px;
+  height: 1000px;
 }
 
 .bar-item {
 	display: inline-block;
-	width: 8000000000000000000000% * 500;
+	width: 100%;
 }
 
 .val {
