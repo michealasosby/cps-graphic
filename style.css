@@ -1,5 +1,5 @@
 .chart {
-  height: 1000px;
+  height: 800px;
 }
 
 .bar-item {
@@ -15,7 +15,7 @@
 }
 
 .bar {
-	background-color: grey;
+	background-color: #1D757F;
 	margin-top: 1px;
 	outline: 1px solid black;
 	color: white;
