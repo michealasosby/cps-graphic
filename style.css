@@ -1,6 +1,7 @@
 .chart {
   height: 850px;
   padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .bar-item {
